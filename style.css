@@ -69,6 +69,12 @@ h1{
     margin-left: 5%;
     margin-right: 5%;
     padding-right: 1%;
-    border-radius: 5%;
     border-left: 7px solid blue;
+    padding-left: 15px;
+}
+P{
+    text-align: justify;
+}
+footer p{
+    text-align: center;
 }
